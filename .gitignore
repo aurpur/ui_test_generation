@@ -26,8 +26,4 @@ replay_pid*
 # Generated Folders
 /target/
 /.idea/
-/.idea/compiler.xml
-/.idea/jarRepositories.xml
-/.idea/vcs.xml
-/.idea/misc.xml
 
